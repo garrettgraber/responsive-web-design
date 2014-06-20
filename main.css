@@ -1,0 +1,29 @@
+
+
+#main {
+	width: auto;
+	margin: auto;
+}
+
+.nav-bar {
+	height: 50px;
+	background-color: black;
+	color: white;
+	margin-top: 0;
+	padding-left: 0;
+	text-align: center;
+}
+
+.nav-element {
+	display: inline-block;
+	/* float: left; */
+	line-height: 50px;
+	vertical-align: middle;
+	font-size: 10pt;
+	padding-left: 15px;
+	padding-right: 15px;
+}
+
+.nav-element:hover {
+	background-color: Crimson;
+}
